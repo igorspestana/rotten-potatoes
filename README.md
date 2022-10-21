@@ -1,3 +1,6 @@
+Aplicação em python com mongodb que oferece reviews de filmes e interação de usuários com comentários usada no exercício de docker:
+https://igorspestana.tk/Hands-on-Aplica-o-rotten-potatoes-com-Docker-14e6691783c646aaa8a9973ece7a0ceb
+
 # rotten-potatoes
 
 ## Configuração
